@@ -1,1 +1,1 @@
-# Image-Slider
+# Image-Slider https://libertalec.github.io/Image-Slider/
